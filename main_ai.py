@@ -9,6 +9,7 @@ from ai.frame_process import frameProcess
 from com_read import readData
 from com_protocol import protocolCheck
 
+#Face recognition code is not written here but there is a function for it in AI directory
 if __name__=="__main__":
     file_path = "file-path"
     config_path = "models/yolov4-tiny.cfg"
