@@ -10,7 +10,7 @@ from com_read import readData
 from com_protocol import protocolCheck
 
 if __name__=="__main__":
-    file_path = "/home/pi/Desktop/optimized_code/"
+    file_path = "file-path"
     config_path = "models/yolov4-tiny.cfg"
     weights_path = "models/yolov4-tiny.weights"
     log_file = "log.pkl"
