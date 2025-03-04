@@ -1,0 +1,5 @@
+# MAVLink communication
+dronekit==2.4.0
+pymavlink==2.4.37
+# Serialization
+pickle==4.0

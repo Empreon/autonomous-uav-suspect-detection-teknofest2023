@@ -1,0 +1,8 @@
+# Computer Vision
+opencv-python==4.7.0.72
+darknetpy==0.3.0  # YOLOv4 wrapper
+face-recognition==1.3.0
+# Utilities
+numpy==1.24.3
+pickle5==0.0.12  # Cross-version compatibility
+imutils==0.5.4  # Raspberry Pi optimizations
